@@ -1,0 +1,5 @@
+pandas>=1.5        # pd.from_dummies (inferência)
+numpy
+scipy              # cdist (método do cotovelo)
+scikit-learn>=1.0  # feature_names_in_ (inferência)
+# matplotlib       # opcional: só para o gráfico do cotovelo, que está comentado no treino
